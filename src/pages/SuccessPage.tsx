@@ -138,10 +138,10 @@ const SuccessPage = () => {
                 className="w-40 h-40 md:w-56 md:h-56 object-contain mb-4"
               />
               <p className="text-2xl font-bold text-primary">
-                I love you forever! 💕
+                So happy you don't hate me! 💕
               </p>
               <p className="text-muted-foreground mt-2">
-                Happy Valentine's Day, my Queen 👑
+                 
               </p>
             </div>
           )}
