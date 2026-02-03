@@ -15,7 +15,7 @@ const App = () => (
     <TooltipProvider>
       <Toaster />
       <Sonner />
-      <BrowserRouter>
+      <BrowserRouter basename="/pixel-proposal">
         <Routes>
           <Route path="/" element={<EnvelopePage />} />
           <Route path="/question" element={<QuestionPage />} />
@@ -25,7 +25,7 @@ const App = () => (
         </Routes>
       </BrowserRouter>
     </TooltipProvider>
-  </QueryClientProvider>
-);
+  </QueryClientProvider>);
+
 
 export default App;
