@@ -19,7 +19,7 @@ const EnvelopePage = () => {
       className="min-h-screen flex flex-col items-center justify-center p-6 transition-all duration-500"
       style={{
         backgroundImage: `url(${heartsBg})`,
-        backgroundSize: "200px",
+        backgroundSize: "400px",
         backgroundRepeat: "repeat",
       }}
     >
@@ -47,7 +47,7 @@ const EnvelopePage = () => {
         </h1>
 
         {/* Personal Message */}
-        <p className="text-center text-muted-foreground max-w-sm md:max-w-md text-base md:text-lg leading-relaxed px-4">
+        <p className="text-center text-muted-foreground max-w-sm md:max-w-md text-xl md:text-2xl font-medium leading-relaxed px-4">
           I know I'm not perfect, I mess up sometimes and act stupid, but I hope
           you know how deeply I'm falling in love with you my lil babbiieee
         </p>
