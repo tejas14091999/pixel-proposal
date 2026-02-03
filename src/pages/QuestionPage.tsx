@@ -13,7 +13,7 @@ It's rare to find someone who is beautiful in every sense of the word—inside a
 
 I thank the gods above—if there are any—for crossing our paths. And sometimes, standing beside you, I feel imperfect. But instead of fear, that feeling fills me with pride, love, and pure awe.
 
-You are fascinating. You are magical. And yes—every once in a while, I just think, fuck yeah, because I get to choose you.
+You are fascinating. You are magical. And yes—every once in a while, I just think, fuck yeah, because I get to call you mine!
 
 I want to mark this moment as the beginning of something real. The start of a long, long journey together—built on honesty, growth, and choosing each other every day. I'm genuinely excited for everything that lies ahead of us, for the future we get to create side by side.
 
